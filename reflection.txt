@@ -1,0 +1,4 @@
+Which source bodies of text did you choose? Which new texts/bodies of text did you choose to compare against the sources?
+What were the results of your comparisons?
+How well do you think your text classification program works? How could it be improved?
+
