@@ -1,3 +1,5 @@
+# Comparative Model
+
 **Description:** This is a Comparative model program that calculates the similarities between 2 sources of text using the Naïve Bayes Probability Model 
 
 **1. Overview:**
